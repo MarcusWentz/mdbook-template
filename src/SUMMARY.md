@@ -16,3 +16,11 @@
 
 - [Chapter 1](./book-2/chapter-1.md)
 - [Chapter 2](./book-2/chapter-2.md)
+
+# Syntax Highlighting 
+
+- [Rust](./syntax-highlighting/rust.md)
+- [Go](./syntax-highlighting/go.md)
+- [Javascript](./syntax-highlighting/javascript.md)
+
+<!-- - [Solidity](./syntax-highlighting/solidity.md) -->
