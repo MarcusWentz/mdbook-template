@@ -2,12 +2,17 @@
 
 [Introduction](./README.md)
 
-# Layer 1
+# Book 1
 
-- [Layer 1](./layer-1/1.md)
-    - [Layer 2](./layer-1/layer-2/layer-2/2.md)
+## Chapter 1
+
+- [Chapter 1](./book-1/chapter-1.md)
+    - [Chapter 1.1](./book-1/chapter-1/chapter-1.1.md)
+    - [Chapter 1.2](./book-1/chapter-1/chapter-1.2.md)
+- [Chapter 2](./book-1/chapter-2/2.md)
 
 
-## Layer 3 
+# Book 2
 
-- [Layer 3](./layer-3/3.md)
+- [Chapter 1](./book-2/chapter-1.md)
+- [Chapter 2](./book-2/chapter-2.md)
