@@ -1,0 +1,6 @@
+[book]
+authors = ["MarcusWentz"]
+language = "en"
+multilingual = false
+src = "src"
+title = "template-testing"
