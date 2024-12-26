@@ -8,3 +8,4 @@ title = "template-testing"
 [output.html]
 git-repository-url = "https://github.com/MarcusWentz/mdbook-template"
 edit-url-template =  "https://github.com/MarcusWentz/mdbook-template/edit/main/src/README.md"
+additional-js = ["src/static/solidity.min.js"]

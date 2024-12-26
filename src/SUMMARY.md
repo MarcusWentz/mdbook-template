@@ -22,5 +22,7 @@
 - [Rust](./syntax-highlighting/rust.md)
 - [Go](./syntax-highlighting/go.md)
 - [Javascript](./syntax-highlighting/javascript.md)
+- [Solidity](./syntax-highlighting/solidity.md)
+
 
 <!-- - [Solidity](./syntax-highlighting/solidity.md) -->
