@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "template-testing"
+
+[output.html]
+git-repository-url = "https://github.com/MarcusWentz/mdbook-template"
+edit-url-template =  "https://github.com/MarcusWentz/mdbook-template/edit/main/src/README.md"
