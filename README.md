@@ -1,5 +1,9 @@
 # mdbook-template
 
+## GitHub Pages Hosted Link
+
+https://marcuswentz.github.io/mdbook-template/
+
 ## Install mdbook
 
 ```shell
@@ -28,6 +32,3 @@ localhost:3000
 
 https://github.com/foundry-rs/book
 
-## GitHub Pages Hosted Link
-
-https://marcuswentz.github.io/mdbook-template/
