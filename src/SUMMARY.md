@@ -29,4 +29,6 @@
 - [Derivatives](./mathjax/derivatives.md)
 - [Integrals](./mathjax/integrals.md)
 
-<!-- - [Solidity](./syntax-highlighting/solidity.md) -->
+# GitHub Pages 
+
+- [Hosting](./github-pages/hosting.md)

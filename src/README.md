@@ -27,3 +27,7 @@ localhost:3000
 ## Foundry book reference
 
 https://github.com/foundry-rs/book
+
+## GitHub Pages Hosted Link
+
+https://marcuswentz.github.io/mdbook-template/
