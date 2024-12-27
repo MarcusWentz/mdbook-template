@@ -24,5 +24,9 @@
 - [Javascript](./syntax-highlighting/javascript.md)
 - [Solidity](./syntax-highlighting/solidity.md)
 
+# Mathjax 
+
+- [Derivatives](./mathjax/derivatives.md)
+- [Integrals](./mathjax/integrals.md)
 
 <!-- - [Solidity](./syntax-highlighting/solidity.md) -->
