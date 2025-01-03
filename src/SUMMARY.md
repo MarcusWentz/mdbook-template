@@ -32,3 +32,7 @@
 # GitHub Pages 
 
 - [Hosting](./github-pages/hosting.md)
+
+# Hint Boxes 
+
+- [Types](./hint-boxes/types.md)
